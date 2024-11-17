@@ -1,6 +1,6 @@
 # EDGAR Schedule of Investments Extractor
 
-A Python tool for automatically downloading and processing Schedule of Investments from SEC EDGAR filings for Business Development Companies (BDCs).
+A Python layer over edgartools for parsing the Schedule of Investments from SEC EDGAR filings for Business Development Companies (BDCs).
 
 ## Features
 
