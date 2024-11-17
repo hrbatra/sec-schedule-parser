@@ -24,9 +24,9 @@ git clone https://github.com/yourusername/edgar-soi-extractor.git
 cd edgar-soi-extractor
 ```
 
-2. Install required packages:
+2. Install edgartools:
 ```bash
-pip install -r requirements.txt
+pip edgartools==3.1.2
 ```
 
 ## Usage
