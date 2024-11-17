@@ -38,6 +38,7 @@ USER_EMAIL = "your.email@domain.com"
 
 2. (Optional) Modify the `SCHEMA` dictionary to track different companies:
 ```python
+# downloads the latest N filings given for each form
 SCHEMA = {
     "GSBD": {"10-Q": 4, "10-K": 1},  # Goldman Sachs BDC
     "OBDC": {"10-Q": 4, "10-K": 1},  # Blue Owl BDC
