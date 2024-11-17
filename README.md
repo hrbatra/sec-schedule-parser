@@ -16,9 +16,7 @@ A parsing layer over edgartools for converting the Schedule of Investments from 
 - Python 3.6 or higher
 - `pip` (Python package installer)
 
-## Installation
-
-1. Clone this repository:
+1. Clone this repository (or download files):
 ```bash
 git clone https://github.com/hrbatra/sec-schedule-parser.git
 cd sec-schedule-parser
@@ -30,6 +28,7 @@ pip edgartools==3.1.2
 ```
 
 ## Usage
+# or follow usage_example.ipynb as an alternative
 
 1. Open `edgar_extractor.py` and update the `USER_EMAIL` variable with your email address:
 ```python
