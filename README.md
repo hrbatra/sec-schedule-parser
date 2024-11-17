@@ -28,7 +28,7 @@ pip edgartools==3.1.2
 ```
 
 ## Usage
-# or follow usage_example.ipynb as an alternative
+(or follow usage_example.ipynb as an alternative)
 
 1. Open `edgar_extractor.py` and update the `USER_EMAIL` variable with your email address:
 ```python
