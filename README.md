@@ -20,8 +20,8 @@ A parsing layer over edgartools for converting the Schedule of Investments from 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/edgar-soi-extractor.git
-cd edgar-soi-extractor
+git clone https://github.com/hrbatra/sec-schedule-parser.git
+cd sec-schedule-parser
 ```
 
 2. Install edgartools:
